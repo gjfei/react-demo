@@ -1,0 +1,6 @@
+[submodule "react-redux"]
+	path = react-redux
+	url = ./react-redux
+[submodule "react-router"]
+	path = react-router
+	url = ./react-router
